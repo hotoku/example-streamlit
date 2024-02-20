@@ -12,6 +12,19 @@
 - [gallery][gallery]
 - [prettymapp][prettymapp]
 
+## todo
+
+- dataframeを表示する
+  - pagerつきで
+- select boxなどでinteractiveにするパーツ
+- グラフを書く
+- 画面内のタブ
+- 画面の縦分割
+- 例外処理
+- 一部の処理に時間がかかる場合の扱い
+
+##### end
+
 <!-- link -->
 [gallery]: https://streamlit.io/gallery?category=geography-society
 [prettymapp]: https://github.com/chrieke/prettymapp
