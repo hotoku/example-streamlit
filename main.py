@@ -1,7 +1,7 @@
 import streamlit as st
 import seaborn as sns
 
-from exst.mod import get_df
+from exst.data_source import get_df
 
 df = get_df()
 
